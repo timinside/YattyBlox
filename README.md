@@ -4,3 +4,5 @@
 > YattyBlox/YattyBlox Launcher is in development state.
 # Download YattyBlox
 YattyBlox is now available for Download right now.
+# Discord Community
+Join our Discord Community: https://discord.gg/PjMkjVvGmm
