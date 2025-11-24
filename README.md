@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧱 YattyBlox
+# <img width="30" height="30" alt="fe546519ffbe30c52bde5e5abd979fe8" src="https://github.com/user-attachments/assets/68ce5e61-4371-41ba-875c-92e47e9c1fa3" /> YattyBlox
 
 **Relive the Golden Era (2016-2020)**
 
